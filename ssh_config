@@ -1,0 +1,5 @@
+# CAEN
+Host joycesin
+	HostName login.engin.umich.edu
+	User joycesin
+	Compression yes
